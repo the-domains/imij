@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-08-10T04:57:07.797Z'
+datePublished: '2016-08-10T04:57:30.346Z'
+sourcePath: >-
+  _posts/2016-08-10-i-believe-when-an-image-is-reduced-to-its-basics-of-black-an.md
 author: []
 via: {}
-dateModified: '2016-08-10T04:57:07.421Z'
+dateModified: '2016-08-10T04:57:29.845Z'
 title: >-
   I believe when an image is reduced to its basics of Black and White we, as the
   observers of the world, are drawn into the image in a deeper ... more profound
   way.
 publisher: {}
 description: B&W
-sourcePath: >-
-  _posts/2016-08-10-i-believe-when-an-image-is-reduced-to-its-basics-of-black-an.md
 starred: true
 inFeed: true
 hasPage: true
