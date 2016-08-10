@@ -1,12 +1,10 @@
 ---
-datePublished: '2016-08-10T04:57:19.781Z'
+datePublished: '2016-08-10T05:02:48.340Z'
 sourcePath: _posts/2016-08-10-lunar-eclipse--not-the-beginning-rather-the-ending-next.md
 author: []
 via: {}
-dateModified: '2016-08-10T04:57:19.292Z'
-title: >-
-  Lunar Eclipse ... not the beginning, rather the ending Next total lunar
-  eclipse … January 31, 2018
+dateModified: '2016-08-10T05:02:47.861Z'
+title: 'Next Full Lunar Eclipse January 31, 2018'
 publisher:
   name: pax
 description: The End of The Lunar Eclipse 9.2015
