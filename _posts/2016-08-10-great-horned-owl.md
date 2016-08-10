@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-10T14:44:07.582Z'
+datePublished: '2016-08-10T14:46:50.793Z'
+sourcePath: _posts/2016-08-10-great-horned-owl.md
 author: []
 via: {}
-dateModified: '2016-08-10T14:44:00.902Z'
+dateModified: '2016-08-10T14:46:50.400Z'
 title: Great Horned Owl
 publisher: {}
 description: What do I say?
 starred: false
-sourcePath: _posts/2016-08-10-great-horned-owl.md
 inFeed: true
 hasPage: true
 inNav: false
