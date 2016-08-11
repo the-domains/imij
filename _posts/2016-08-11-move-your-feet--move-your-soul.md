@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-11T02:39:11.495Z'
+datePublished: '2016-08-11T04:34:52.119Z'
+sourcePath: _posts/2016-08-11-move-your-feet--move-your-soul.md
 author: []
 via: {}
-dateModified: '2016-08-11T02:38:55.458Z'
+dateModified: '2016-08-11T04:34:51.268Z'
 title: Move Your Feet ... Move Your Soul
 publisher: {}
 description: ''
 starred: false
-sourcePath: _posts/2016-08-11-move-your-feet--move-your-soul.md
 inFeed: true
 hasPage: true
 inNav: false
