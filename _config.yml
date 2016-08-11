@@ -1,4 +1,4 @@
-typography_spectrum: 0.36373588745482266
+typography_spectrum: 0.9146460238844156
 color:
   brandStrength: 0.6250746615696698
   lightness: 0.07942332071252167
@@ -10,7 +10,7 @@ color:
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-layout_spectrum: 0.2790660134050995
+layout_spectrum: 0.5008265336509794
 analytics:
   google: UA-82318010-1
 name: imij
