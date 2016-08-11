@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-11T02:02:48.770Z'
+datePublished: '2016-08-11T02:44:04.541Z'
 sourcePath: _posts/2016-08-10-great-horned-owl.md
 author: []
 via: {}
-dateModified: '2016-08-11T02:02:47.472Z'
+dateModified: '2016-08-11T02:44:03.933Z'
 title: Lessons From The Wise Owl
 publisher:
-  name: Click To Read More
+  name: imij
 description: What do I say?
 starred: false
 inFeed: true
@@ -17,7 +17,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![Lesson From The Wise](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4612360-aa09-45eb-a89b-3592314f5197.jpg)
+![Click to Read More](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4612360-aa09-45eb-a89b-3592314f5197.jpg)
 
 What do I say?
 
