@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-11T03:53:20.528Z'
+datePublished: '2016-08-11T04:17:53.214Z'
 sourcePath: >-
   _posts/2016-08-10-i-believe-when-an-image-is-reduced-to-its-basics-of-black-an.md
 author: []
 via: {}
-dateModified: '2016-08-11T03:53:20.044Z'
-title: ''
+dateModified: '2016-08-11T04:17:52.849Z'
+title: Welcome to Imij
 publisher: {}
 description: >-
   I believe an imij becomes a story when the artist is bold enough to take a
