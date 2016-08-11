@@ -12,6 +12,10 @@ color:
     - '#333333'
 layout_spectrum: 0.2790660134050995
 name: imij
+navigation:
+  - name: This Was Shot at The Tail End of The Lunar Eclipse 9.2015
+    id: aa7238c9-aac4-4cbc-9eb0-1336f928cff0
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d6f0b58-3acc-442d-8b6b-8294e06612b7.png
 title: imij
