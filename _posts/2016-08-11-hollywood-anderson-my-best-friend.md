@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-08-11T02:46:23.686Z'
+datePublished: '2016-08-11T02:47:52.069Z'
+sourcePath: _posts/2016-08-11-hollywood-anderson-my-best-friend.md
 isBasedOnUrl: 'https://youtu.be/ga4AMn2HT-0'
 keywords:
   - anderson
@@ -18,7 +19,7 @@ author:
     url: 'https://www.youtube.com/channel/UCLQzK8utreEJgzVYjJ2AWvg'
     avatar: {}
 via: {}
-dateModified: '2016-08-11T02:46:00.410Z'
+dateModified: '2016-08-11T02:47:51.581Z'
 title: Hollywood Anderson "My Best Friend"
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=ga4AMn2HT-0&feature=applinks'
@@ -67,7 +68,6 @@ description: >-
   Helling Choreographer: Ryann Fuchs Male lead: Malik Female lead: Kelsey
 inLanguage: en
 starred: false
-sourcePath: _posts/2016-08-11-hollywood-anderson-my-best-friend.md
 inFeed: true
 hasPage: false
 inNav: false
