@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-10T14:35:52.988Z'
+datePublished: '2016-08-11T02:32:17.080Z'
 sourcePath: _posts/2016-08-10-lunar-eclipse--not-the-beginning-rather-the-ending-next.md
 author: []
 via: {}
-dateModified: '2016-08-10T14:35:52.491Z'
+dateModified: '2016-08-11T02:32:16.550Z'
 title: This Was Shot at The Tail End of The Lunar Eclipse 9.2015
 publisher:
-  name: pax
+  name: imij
 description: Next Lunar Eclipse North America 1.31.2018
 starred: false
 inFeed: true
