@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-11T01:58:10.837Z'
+datePublished: '2016-08-11T02:31:52.481Z'
+sourcePath: _posts/2016-08-11-story-told-through-movment.md
 author: []
 via: {}
-dateModified: '2016-08-11T01:58:07.137Z'
+dateModified: '2016-08-11T02:31:52.085Z'
 title: ''
 publisher:
-  name: pax
+  name: imij
 description: Story Told Through Movment
 starred: false
-sourcePath: _posts/2016-08-11-story-told-through-movment.md
 inFeed: true
 hasPage: true
 inNav: false
