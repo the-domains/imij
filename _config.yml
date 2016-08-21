@@ -11,8 +11,7 @@ color:
   saturation: 0.5793756139464676
   rhythmicContrast: 0.03699183464050293
 opengraph:
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/85c79ced-81d7-4520-8394-d4ff074d8f27.png
+  image: null
   type: null
   appId: null
 layout_spectrum: 0.92749
@@ -21,7 +20,7 @@ analytics:
   facebook: null
   twitter: null
 logo: null
-name: imij
+name: home
 cta:
   domain: null
   bucket: null
@@ -32,5 +31,5 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d6f0b58-3acc-442d-8b6b-8294e06612b7.png
-title: home
+title: imij
 purpose: []
