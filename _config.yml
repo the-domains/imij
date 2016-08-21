@@ -1,4 +1,3 @@
-layout_spectrum: 0.92749
 typography_spectrum: 0.8943323837593198
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.92749
 analytics:
   google: UA-82318010-1
   facebook: null
@@ -27,6 +27,9 @@ cta:
 navigation:
   - name: about
     id: 1c84b21d-c2bb-4320-b65d-a0d74c3ee200
+    type: content
+  - name: /pôrtˈfōlēˌō/
+    id: 8f07e0c5-0911-4c55-9ecb-fcc3d4565a2c
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d6f0b58-3acc-442d-8b6b-8294e06612b7.png
