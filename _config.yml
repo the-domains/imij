@@ -14,6 +14,10 @@ layout_spectrum: 0.15420018089935184
 analytics:
   google: UA-82318010-1
 name: imij
+navigation:
+  - name: home
+    url: 'http://pax.photography'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d6f0b58-3acc-442d-8b6b-8294e06612b7.png
 title: imij
