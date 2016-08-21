@@ -11,7 +11,8 @@ color:
   saturation: 0.5793756139464676
   rhythmicContrast: 0.03699183464050293
 opengraph:
-  image: null
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/85c79ced-81d7-4520-8394-d4ff074d8f27.png
   type: null
   appId: null
 layout_spectrum: 0.92749
@@ -19,6 +20,7 @@ analytics:
   google: UA-82318010-1
   facebook: null
   twitter: null
+logo: null
 name: imij
 cta:
   domain: null
