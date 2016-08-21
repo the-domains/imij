@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-11T04:35:06.678Z'
+datePublished: '2016-08-20T23:28:28.369Z'
 sourcePath: _posts/2016-08-11-move-your-feet--move-your-soul.md
 author: []
 via: {}
-dateModified: '2016-08-11T04:35:06.106Z'
+dateModified: '2016-08-20T23:28:27.983Z'
 title: Move Your Feet ... Move Your Soul
 publisher: {}
 description: ''
