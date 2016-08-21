@@ -1,16 +1,14 @@
 ---
-datePublished: '2016-08-21T03:08:37.152Z'
+datePublished: '2016-08-21T03:09:20.379Z'
 author: []
 via: {}
-dateModified: '2016-08-21T03:08:34.202Z'
+dateModified: '2016-08-21T03:09:19.991Z'
 title: ''
 publisher: {}
 description: Image /’imij/ . . . it’s about perspective.
-starred: false
 sourcePath: _posts/2016-08-21-image-imij----its-about-perspective.md
-inFeed: true
 hasPage: true
-inNav: false
+starred: false
 url: image-imij----its-about-perspective/index.html
 _context: 'http://schema.org'
 _type: Article
