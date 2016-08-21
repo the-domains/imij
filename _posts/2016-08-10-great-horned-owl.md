@@ -1,12 +1,11 @@
 ---
-datePublished: '2016-08-11T04:34:39.702Z'
+datePublished: '2016-08-20T23:28:43.810Z'
 sourcePath: _posts/2016-08-10-great-horned-owl.md
 author: []
 via: {}
-dateModified: '2016-08-11T04:34:38.836Z'
+dateModified: '2016-08-20T23:28:43.430Z'
 title: Lessons From The Wise Owl
-publisher:
-  name: imij
+publisher: {}
 description: What do I say?
 starred: false
 inFeed: true
