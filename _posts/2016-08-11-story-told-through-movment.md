@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-12T06:26:21.435Z'
+datePublished: '2016-08-20T23:28:36.810Z'
 sourcePath: _posts/2016-08-11-story-told-through-movment.md
 author: []
 via: {}
-dateModified: '2016-08-12T06:26:20.878Z'
+dateModified: '2016-08-20T23:28:36.432Z'
 title: ''
 publisher: {}
 description: ''
