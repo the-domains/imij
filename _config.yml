@@ -1,19 +1,30 @@
+name: imij
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d6f0b58-3acc-442d-8b6b-8294e06612b7.png
+layout_spectrum: 0.92749
 typography_spectrum: 0.21366337011568248
+title: imij
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-82318010-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.14151232526637614
-  lightness: 0.6886157575063407
-  saturation: 0.747402960434556
-  rhythmicContrast: 0.6446168906986713
   brandColors:
     - '#FFFFFF'
     - '#CCCCCC'
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-layout_spectrum: 0.15420018089935184
-analytics:
-  google: UA-82318010-1
-name: imij
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d6f0b58-3acc-442d-8b6b-8294e06612b7.png
-title: imij
+  brandStrength: 0.14151232526637614
+  lightness: 0.6886157575063407
+  saturation: 0.747402960434556
+  rhythmicContrast: 0.6446168906986713
+purpose: []
