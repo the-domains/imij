@@ -25,7 +25,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: about
+  - name: /əˈbout/
     id: 1c84b21d-c2bb-4320-b65d-a0d74c3ee200
     type: content
   - name: /pôrtˈfōlēˌō/
