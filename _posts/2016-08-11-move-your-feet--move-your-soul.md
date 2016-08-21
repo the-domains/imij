@@ -11,15 +11,15 @@ metadata:
   '@type': Article
   publisher: {}
   description: ''
-dateModified: '2016-08-20T23:55:47.716Z'
+dateModified: '2016-08-21T15:20:42.181Z'
 title: ''
-datePublished: '2016-08-20T23:55:48.448Z'
+datePublished: '2016-08-21T15:20:42.299Z'
 author: []
 description: Move Your Feet ... Move Your Soul
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-11-move-your-feet--move-your-soul.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
