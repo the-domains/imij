@@ -4,7 +4,7 @@
         <description><![CDATA[imij]]></description>
         <link>http://pax.photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 15:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 15:21:35 GMT</lastBuildDate>
         <atom:link href="http://pax.photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -47,13 +47,6 @@
             <link>http://pax.photography/3db72346-2878-4967-a702-5a990bf1ecc9/index.html</link>
             <guid isPermaLink="false">3db72346-2878-4967-a702-5a990bf1ecc9</guid>
             <pubDate>Sat, 20 Aug 2016 23:27:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffa2d502-1a8f-4e09-8b7e-ab81a5c43986.jpg">]]></description>
-            <link>http://pax.photography/237d6f86-0f26-4852-9dc8-5424e81ed77e/index.html</link>
-            <guid isPermaLink="false">237d6f86-0f26-4852-9dc8-5424e81ed77e</guid>
-            <pubDate>Sat, 20 Aug 2016 23:17:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
