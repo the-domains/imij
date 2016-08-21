@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-21T15:06:09.794Z'
+datePublished: '2016-08-21T15:07:25.556Z'
 sourcePath: _posts/2016-08-21-image-imij----its-about-perspective.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-21T15:06:09.450Z'
+dateModified: '2016-08-21T15:07:25.259Z'
 title: ''
 publisher: {}
 description: Image /’imij/ . . . it’s about perspective.
@@ -14,7 +14,6 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/937400b9-223d-4754-9ded-df96ed80fd27.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e091fbf2-57bf-42df-a96e-f7f5db7c7a8e.jpg)
 
 Image /'imij/ . . . it's about perspective.
