@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-11T04:17:53.214Z'
+datePublished: '2016-08-20T23:10:21.984Z'
 sourcePath: >-
   _posts/2016-08-10-i-believe-when-an-image-is-reduced-to-its-basics-of-black-an.md
 author: []
 via: {}
-dateModified: '2016-08-11T04:17:52.849Z'
+dateModified: '2016-08-20T23:10:21.639Z'
 title: Welcome to Imij
 publisher: {}
 description: >-
