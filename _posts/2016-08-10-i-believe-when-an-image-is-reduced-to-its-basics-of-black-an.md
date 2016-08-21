@@ -1,10 +1,14 @@
 ---
-datePublished: '2016-08-21T00:14:13.843Z'
+datePublished: '2016-08-21T14:51:02.820Z'
 sourcePath: >-
   _posts/2016-08-10-i-believe-when-an-image-is-reduced-to-its-basics-of-black-an.md
+inFeed: true
+authors: []
+hasPage: false
+keywords: []
 author: []
 via: {}
-dateModified: '2016-08-21T00:14:13.417Z'
+dateModified: '2016-08-21T14:51:02.442Z'
 title: imij
 publisher: {}
 description: >-
@@ -22,11 +26,9 @@ description: >-
   Our purpose in life isn't about what we can do (that's easy) ... rather it's
   about what we are willing to endure - so that we may catch a glimpse of what
   our true character looks like. My name is Paxton Helling and welcome to imij.
-starred: true
-inFeed: true
-hasPage: true
+inLanguage: null
 inNav: false
-url: i-believe-when-an-image-is-reduced-to-its-basics-of-black-an/index.html
+starred: true
 _context: 'http://schema.org'
 _type: Article
 
