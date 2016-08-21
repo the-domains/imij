@@ -1,19 +1,20 @@
 ---
-datePublished: '2016-08-21T03:09:20.379Z'
+datePublished: '2016-08-21T14:59:52.858Z'
+sourcePath: _posts/2016-08-21-image-imij----its-about-perspective.md
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-21T03:09:19.991Z'
+dateModified: '2016-08-21T14:59:52.444Z'
 title: ''
 publisher: {}
 description: Image /’imij/ . . . it’s about perspective.
-sourcePath: _posts/2016-08-21-image-imij----its-about-perspective.md
-hasPage: true
 starred: false
 url: image-imij----its-about-perspective/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/937400b9-223d-4754-9ded-df96ed80fd27.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e091fbf2-57bf-42df-a96e-f7f5db7c7a8e.jpg)
 
 Image /'imij/ . . . it's about perspective.
