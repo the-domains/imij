@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-22T04:08:28.936Z'
+datePublished: '2016-09-01T13:58:33.184Z'
 sourcePath: _posts/2016-08-21-image-imij----its-about-perspective.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-22T04:08:28.549Z'
+dateModified: '2016-09-01T13:58:32.664Z'
 title: ''
 publisher: {}
 description: Image /imij/ . . . it’s about perspective.
